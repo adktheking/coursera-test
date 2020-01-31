@@ -13,12 +13,21 @@
 #mhead{
 	font-size:70;
 }
-#ptitle{
+#ctitle{
 	font-size:30;
 	text-align:center;
 }
-#mtext{
+#btitle{
+	font-size:30;
+	text-align:center;
+}
+#stitle{
+	font-size:30;
+	text-align:center;
+}
+.mtext{
 	font-size:23;
 	background:#999999;
 	padding:10px;
+	margin-bottom:10px;
 }
