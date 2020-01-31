@@ -14,15 +14,21 @@
 	font-size:70;
 }
 #ctitle{
-	font-size:30;
+	font-family:serif;
+	text-decoration:underline;
+	font-size:40;
 	text-align:center;
 }
 #btitle{
-	font-size:30;
+	font-family:serif;
+	text-decoration:underline;
+	font-size:40;
 	text-align:center;
 }
 #stitle{
-	font-size:30;
+	font-family:serif;
+	text-decoration:underline;
+	font-size:40;
 	text-align:center;
 }
 .mtext{
