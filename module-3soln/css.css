@@ -1,0 +1,25 @@
+.navbar-brand{
+	font-size:30;
+}
+
+.nav-item{
+	background:blue;
+	text-align:center;
+}
+.jumbotron{
+	text-align:center;
+	background:none;
+	padding:0;
+}
+#mhead{
+	font-size:70;
+}
+#ptitle{
+	font-size:30;
+	text-align:center;
+}
+#mtext{
+	font-size:23;
+	background:#999999;
+	padding:10px;
+}
